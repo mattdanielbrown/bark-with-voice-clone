@@ -1,5 +1,20 @@
 # 🐶 BARK AI: but with the ability to use voice cloning on custom audio samples
 
+---
+
+## UPDATE: We launched a follow-up to BARK -- 
+
+_a hyper realistic AI Voice Cloner Desktop App_
+
+- Runs locally
+- All data is yours - 100% data privacy
+- No costs to run
+
+👉 Check it out here: https://github.com/serpapps/ai-voice-cloner
+
+
+---
+
 For RVC `git clone https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI` and train your model or point the code to you model (must clone RVC repo in bark-with-voice-clone directory)
 
 If you want to clone a voice just follow the `clone_voice.ipynb` notebook. If you want to generate audio from text, follow the `generate.ipynb` notebook.
